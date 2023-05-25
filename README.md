@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @was-abi
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data
 - 🌱 I’m currently pursuing Masters in Computer Science at New Jersey Institute Of Technology
 - 💞️ I’m looking to collaborate on projects related to machine learning
 - 📫 How to reach me https://www.linkedin.com/in/abhishek-gajul/
