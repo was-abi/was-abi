@@ -18,9 +18,9 @@ Welcome to my Data Analyst portfolio! Here, I showcase my passion for data analy
 - Docker Containerization
 - Monitoring and Logging
 
-**Outcome:** I built a reliable solution for wine quality prediction, combining accuracy with user-friendliness. Explore the technical nuances and challenges in the [GitHub repository](link-to-repo) and [blog post](link-to-blog).
+**Outcome:** I built a reliable solution for wine quality prediction, combining accuracy with user-friendliness. Explore the technical nuances and challenges in the https://github.com/was-abi/End-to-End-ML-Project-with-MLflow and https://www.linkedin.com/feed/update/urn:li:activity:7100259989499330560/
 
-**Skills:** Analytical Skills · Python (Programming Language) · Flask
+**Skills:** Analytical Skills · Python · SQL 
 
 ## Project 2: Anime Data Analysis and Recommender System
 
