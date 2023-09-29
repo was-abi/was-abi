@@ -6,7 +6,7 @@ I'm thrilled to have you here! This is my Data Analyst portfolio, where I explor
 
 My journey into data analysis is driven by my fascination with the stories data can tell. I'm motivated by the opportunity to uncover valuable information that can make a meaningful impact. Join me on this data-driven adventure!
 
-## Project 2: An End-to-End Wine Quality Prediction using Machine Learning
+## Project 1: An End-to-End Wine Quality Prediction using Machine Learning
 
 **Duration:** Aug 2023
 
