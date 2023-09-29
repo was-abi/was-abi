@@ -1,6 +1,6 @@
 # Greetings!
 
-I'm thrilled to have you here! This is my Data Analyst portfolio, where I explore the world of data and its infinite possibilities. I'm deeply passionate about data analysis and its power to unveil hidden insights, solve complex problems, and guide decision-making.
+I'm thrilled to have you here! This is my Github portfolio, where I explore the world of data and its infinite possibilities. I'm deeply passionate about data analysis and its power to unveil hidden insights, solve complex problems, and guide decision-making.
 
 ## Interest and Motivation
 
