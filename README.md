@@ -1,63 +1,25 @@
-# Greetings!
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-I'm thrilled to have you here! This is my Github portfolio, where I explore the world of data and its infinite possibilities. I'm deeply passionate about data analysis and its power to unveil hidden insights, solve complex problems, and guide decision-making.
+- 🔭 I’m currently working on **Personal Finance Dashboard**
 
-## Interest and Motivation
+- 👨‍💻 All of my projects are available at [https://was-abi.github.io/AbhiGajul.github.io/](https://was-abi.github.io/AbhiGajul.github.io/)
 
-My journey into data analysis is driven by my fascination with the stories data can tell. I'm motivated by the opportunity to uncover valuable information that can make a meaningful impact. Join me on this data-driven adventure!
+- 💬 Ask me about **Python, SQL, Tableau, Powerbi**
 
-## Project 1: An End-to-End Wine Quality Prediction using Machine Learning
+- 📫 How to reach me **abhi123gajul@gmail.com**
 
-**Duration:** Aug 2023
+- ⚡ Fun fact **Reading protects from prison**
 
-**Description:** I embarked on a journey to develop a comprehensive machine learning solution that predicts wine quality with precision and accuracy. This project highlights my proficiency in Python, GitHub, MLflow, AWS services, Flask, and Docker.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abhishekgajul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekgajul1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/abhishek-gajul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/abhishek-gajul" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/abhisenpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhisenpai" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/abhi123gajul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhi123gajul/" height="30" width="40" /></a>
+</p>
 
-**Key Highlights:**
-- Data Collection and Exploration
-- Data Preprocessing
-- Model Selection and Hyperparameter Tuning
-- MLflow Integration
-- AWS Deployment
-- Flask Frontend
-- Docker Containerization
-- Monitoring and Logging
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-**Outcome:** I built a reliable solution for wine quality prediction, combining accuracy with user-friendliness. Explore the technical nuances and challenges in the https://github.com/was-abi/End-to-End-ML-Project-with-MLflow and https://www.linkedin.com/feed/update/urn:li:activity:7100259989499330560/
-
-**Skills:** Analytical Skills · Python · SQL 
-
-## Project 2: Anime Data Analysis and Recommender System
-
-**Description:** I developed an Anime Data Analysis and Recommender System to enhance the anime viewing experience and provide personalized recommendations. This project showcases my expertise in data analytics and machine learning.
-
-**Key Highlights:**
-- Data Exploration and Analysis
-- Collaborative Filtering and Content-Based Recommendation
-- Personalized Anime Recommendations
-
-**Outcome:** This project empowers viewers to discover new and captivating anime series aligned with their unique preferences.
-
-**Skills:** Recommender Systems · Data Analytics · Python (Programming Language)
-
-## Project 3: Uber Data Analytics | An End-to-End Data Engineering Project
-
-**Description:** I processed and analyzed Uber's extensive dataset using Python, Cloud Storage, Mage AI ETL, Google BigQuery, and Looker Studio. This project demonstrates my data engineering skills.
-
-**Key Highlights:**
-- Python Data Transformation
-- Cloud Storage for Data Management
-- Mage AI ETL Automation
-- Google BigQuery for Data Warehousing
-- Looker Studio Dashboard Creation
-
-**Outcome:** I transformed raw data into actionable insights, empowering organizations to make data-driven decisions.
-
-**Skills:** Data Engineering · Google BigQuery · ETL · Looker (Software) · Python · SQL
-
-## Contact
-
-Feel free to reach out to me via email at ag2572@njit.edu or connect with me on https://www.linkedin.com/in/abhishek-gajul/
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=was-abi&show_icons=true&locale=en&layout=compact" alt="was-abi" /></p>
