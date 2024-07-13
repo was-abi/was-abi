@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 🔭 I’m currently working on **Personal Finance Dashboard**
 
@@ -16,6 +16,7 @@
 <a href="https://twitter.com/abhishekgajul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekgajul1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/abhishek-gajul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/abhishek-gajul" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/abhisenpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhisenpai" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/abhishekgajul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abhishekgajul1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/abhi123gajul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhi123gajul/" height="30" width="40" /></a>
 </p>
 
