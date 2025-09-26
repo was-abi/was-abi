@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Adverse Event Detection**
 
-- 👨‍💻 All of my projects are available at [https://was-abi.github.io/AbhiGajul.github.io/](https://was-abi.github.io/AbhiGajul.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-abhishek-gajul.vercel.app/](https://portfolio-abhishek-gajul.vercel.app/)
 
 - 💬 Ask me about **Python, SQL, Tableau, Powerbi**
 
