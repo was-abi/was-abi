@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on **Personal Finance Dashboard**
+- 🔭 I’m currently working on **Adverse Event Detection**
 
 - 👨‍💻 All of my projects are available at [https://was-abi.github.io/AbhiGajul.github.io/](https://was-abi.github.io/AbhiGajul.github.io/)
 
