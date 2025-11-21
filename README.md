@@ -69,14 +69,7 @@
 
 <h3 align="left">Frameworks & Cloud Tools:</h3>
 <p align="left">
-  <!-- LangChain -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" alt="LangChain" width="40" height="40"/>
-  </a>
-  <!-- LangGraph -->
-  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/logo.png" alt="LangGraph" width="40" height="40"/>
-  </a>
+  
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
@@ -84,10 +77,6 @@
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <!-- Langflow -->
-  <a href="https://www.langflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/logspace-ai/langflow/main/docs/imgs/logo.svg" alt="Langflow" width="40" height="40"/>
   </a>
   <!-- GCP -->
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
