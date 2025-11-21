@@ -92,9 +92,9 @@
 </p>
 <h3 align="left">LLMs Worked On:</h3>
 <p align="left">
-  <!-- OpenAI GPT -->
-  <a href="https://openai.com/gpt-4" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI GPT" width="40" height="40"/>
+  <!-- Grok -->
+  <a href="https://grok.com/" target="_blank" rel="noreferrer">
+    <img src="https://images.seeklogo.com/logo-png/61/2/grok-logo-png_seeklogo-615650.png" alt="Grok" width="40" height="40"/>
   </a>
   <!-- HuggingFace Transformers -->
   <a href="https://huggingface.co/models" target="_blank" rel="noreferrer">
