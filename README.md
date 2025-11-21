@@ -69,24 +69,31 @@
 
 <h3 align="left">Frameworks & Cloud Tools:</h3>
 <p align="left">
+  <!-- LangChain -->
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/L/langchain-logo-D43E2C2B99-seeklogo.com.png" alt="LangChain" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" alt="LangChain" width="40" height="40"/>
   </a>
+  <!-- LangGraph -->
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/L/langgraph-logo-728A660A52-seeklogo.com.png" alt="LangGraph" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/logo.png" alt="LangGraph" width="40" height="40"/>
   </a>
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
   </a>
+  <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
+  <!-- Langflow -->
   <a href="https://www.langflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://iconbuddy.com/icons/simple-icons/langflow.svg" alt="Langflow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/logspace-ai/langflow/main/docs/imgs/logo.svg" alt="Langflow" width="40" height="40"/>
   </a>
+  <!-- GCP -->
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
   </a>
+  <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
   </a>
