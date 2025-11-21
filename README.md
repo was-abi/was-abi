@@ -69,7 +69,10 @@
 
 <h3 align="left">Frameworks & Cloud Tools:</h3>
 <p align="left">
-  
+    <!-- Langchain -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="Docker" width="40" height="40"/>
+  </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
