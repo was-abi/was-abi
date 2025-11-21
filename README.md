@@ -90,6 +90,30 @@
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">LLMs Worked On:</h3>
+<p align="left">
+  <!-- OpenAI GPT -->
+  <a href="https://openai.com/gpt-4" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI GPT" width="40" height="40"/>
+  </a>
+  <!-- HuggingFace Transformers -->
+  <a href="https://huggingface.co/models" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="HuggingFace" width="40" height="40"/>
+  </a>
+  <!-- Google PaLM/Vertex AI -->
+  <a href="https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Vertex AI" width="40" height="40"/>
+  </a>
+  <!-- Meta Llama -->
+  <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
+    <img src="https://ai.meta.com/favicon.ico" alt="Meta Llama" width="40" height="40"/>
+  </a>
+  <!-- Anthropic Claude (if relevant) -->
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/1624511618978840578/I1Dd3hwR_400x400.jpg" alt="Anthropic Claude" width="40" height="40"/>
+  </a>
+</p>
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=was-abi&show_icons=true&locale=en&layout=compact" alt="was-abi" />
