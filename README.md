@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A voracious reader and a passionate AI Engineer</h3>
+<h3 align="center">A voracious reader and a passionate Business Analyst</h3>
 
 - 🔭 I’m currently working on **Adverse Event Detection**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-abhishek-gajul.vercel.app/)
+
 
 - 💬 Ask me about **Python, SQL, Tableau, Powerbi**
 
@@ -16,9 +16,7 @@
   <a href="https://twitter.com/abhishekgajul1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekgajul1" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/abhishek-gajul" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-gajul" height="30" width="40" />
-  </a>
+
   <a href="https://kaggle.com/abhisenpai" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhisenpai" height="30" width="40" />
   </a>
