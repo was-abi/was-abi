@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Senior AI/ML Engineer · RAG & Multi-Agent Systems · Financial AI</h3>
+<h3 align="center">Senior Python Developer · HealthCare AI, Fast API Microservices, AI/LLM Integrations</h3>
 
-- 🔭 Currently building **production-grade RAG & multi-agent LLM platforms** at Morgan Stanley — adverse event detection, compliance automation, and GraphRAG systems.
+- 🔭 Currently building **production-grade RAG & multi-agent LLM platforms** at Johnson & Johnson — adverse event detection, compliance automation, and GraphRAG systems.
 
 - 🧠 Deep expertise in **LangChain, LlamaIndex, LangGraph**, fine-tuning with QLoRA, vLLM/Ollama inference, and evaluation pipelines using Ragas & LLM-as-judge.
 
