@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Senior Python Developer · HealthCare AI, Fast API Microservices, AI/LLM Integrations</h3>
+<h3 align="center">Senior AI/ML Engineer, Fast API Microservices, AI/LLM Integrations</h3>
 
 - 🔭 Currently building **production-grade RAG & multi-agent LLM platforms** at Johnson & Johnson — adverse event detection, compliance automation, and GraphRAG systems.
 
